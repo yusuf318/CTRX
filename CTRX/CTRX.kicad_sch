@@ -8696,7 +8696,7 @@
 			(uuid "cc7e3b4c-0545-4236-b7aa-2618c79ecca4")
 		)
 		(instances
-			(project ""
+			(project "CTRX"
 				(path "/cc5d7565-c489-4dd3-a56f-c087f99b94a5"
 					(reference "J3")
 					(unit 1)
@@ -9229,7 +9229,7 @@
 			(uuid "2519ce2f-5b89-4f06-9c1f-d8930943c94e")
 		)
 		(instances
-			(project ""
+			(project "CTRX"
 				(path "/cc5d7565-c489-4dd3-a56f-c087f99b94a5"
 					(reference "#PWR021")
 					(unit 1)
@@ -9295,7 +9295,7 @@
 			(uuid "f4aa78c0-f083-4523-a222-fea2ae5b7356")
 		)
 		(instances
-			(project ""
+			(project "CTRX"
 				(path "/cc5d7565-c489-4dd3-a56f-c087f99b94a5"
 					(reference "#PWR017")
 					(unit 1)
@@ -9684,7 +9684,7 @@
 			(uuid "c4306499-615c-499c-8b64-dd9338a4fba2")
 		)
 		(instances
-			(project ""
+			(project "CTRX"
 				(path "/cc5d7565-c489-4dd3-a56f-c087f99b94a5"
 					(reference "J4")
 					(unit 1)
@@ -10154,7 +10154,7 @@
 			(uuid "f0a32a3f-5ec5-4d7c-951f-e4dd6d0ca749")
 		)
 		(instances
-			(project ""
+			(project "CTRX"
 				(path "/cc5d7565-c489-4dd3-a56f-c087f99b94a5"
 					(reference "C17")
 					(unit 1)
@@ -10959,7 +10959,7 @@
 			(uuid "cd89b80c-c7b5-446a-9b79-de9ac6d70891")
 		)
 		(instances
-			(project ""
+			(project "CTRX"
 				(path "/cc5d7565-c489-4dd3-a56f-c087f99b94a5"
 					(reference "#PWR016")
 					(unit 1)
@@ -11229,7 +11229,7 @@
 			(uuid "ee5b1be9-9721-44ab-bfbf-5073f91a0317")
 		)
 		(instances
-			(project ""
+			(project "CTRX"
 				(path "/cc5d7565-c489-4dd3-a56f-c087f99b94a5"
 					(reference "C16")
 					(unit 1)
@@ -11646,7 +11646,7 @@
 			(uuid "58d1ad86-8e70-474b-a612-bb61c51aac57")
 		)
 		(instances
-			(project ""
+			(project "CTRX"
 				(path "/cc5d7565-c489-4dd3-a56f-c087f99b94a5"
 					(reference "U4")
 					(unit 1)
@@ -11800,7 +11800,7 @@
 			(uuid "d03ec856-2b50-4a3d-8e7f-e92801165309")
 		)
 		(instances
-			(project ""
+			(project "CTRX"
 				(path "/cc5d7565-c489-4dd3-a56f-c087f99b94a5"
 					(reference "U3")
 					(unit 1)
@@ -12138,7 +12138,7 @@
 			(uuid "a1b756e6-9299-4767-95db-857ba76def40")
 		)
 		(instances
-			(project ""
+			(project "CTRX"
 				(path "/cc5d7565-c489-4dd3-a56f-c087f99b94a5"
 					(reference "J1")
 					(unit 1)
